@@ -23,7 +23,8 @@ import TimerWrapperContainer from './timer'
 import Container from './hoc/Container'
 
 // import ReduxContainer from './redux/Container'
-import ReduxContainer from './counterredux/Container'
+// import ReduxContainer from './counterredux/Container'
+import ReduxContainer from './project1/Container'
 
 
 function App() {
