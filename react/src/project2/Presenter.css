@@ -1,0 +1,46 @@
+form {
+    width: 500px;
+    height: 650px;
+}
+
+.title {
+    margin-left: 200px;
+}
+
+.textfield {
+    width: 300px;
+}
+
+.agefield {
+    width: 150px;
+}
+
+span {
+    margin-left: 10px;
+    color: red;
+}
+
+.radio {
+    width: 20px;
+}
+
+.hobbyetc {
+    width: 150px;
+    margin-left: 10px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+    resize: none;
+}
+
+.submit {
+    width: 60px;
+    margin-left: 310px;
+}
+
+.cancel {
+    width: 60px;
+    margin-left: 10px;
+}

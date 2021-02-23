@@ -24,7 +24,8 @@ import Container from './hoc/Container'
 
 // import ReduxContainer from './redux/Container'
 // import ReduxContainer from './counterredux/Container'
-import ReduxContainer from './project1/Container'
+// import ReduxContainer from './project1/Container'
+import ReduxContainer from './project2/Container'
 
 
 function App() {
