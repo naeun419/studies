@@ -1,0 +1,25 @@
+.top-element-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+     margin-left: 45px;
+}
+
+.top-li {
+    float: left;
+}
+
+button {
+    width: 100px;
+    background-color: #faf3e0;
+    border-color: #faf3e0;
+    margin-left: 10px;
+}
+
+li {
+    list-style: none;
+}

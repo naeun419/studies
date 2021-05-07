@@ -7,10 +7,17 @@ import { Provider } from 'react-redux'
 //import store from './project1/Store'
 import store from './project2/Store'
 
+import { BrowserRouter } from 'react-router-dom'
+
 ReactDOM.render(
-  <Provider store={store}>
+  // <Provider store={store}>
+  //   <App />
+  // </Provider>,
+  <React.StrictMode>
+    <BrowserRouter>
     <App />
-  </Provider>,
+    </BrowserRouter>
+  </React.StrictMode>,
   document.getElementById('content')
 
 );

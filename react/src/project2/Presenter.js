@@ -5,7 +5,7 @@ import hobbies from './constants'
 
 const Presenter =({ hobbyChanged, buttonClicked, onChange, 
                     hobbyEtcChanged, phoneChanged, birthdayChanged,
-                    name, age, altmsg, checkhobby, hobbyEtc, birthday, etc}) => {
+                    name, age, altmsg, checkhobby, hobbyEtc, birthday, etc }) => {
 
                        return (
                           <form>
